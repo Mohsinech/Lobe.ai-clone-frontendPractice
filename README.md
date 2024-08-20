@@ -54,7 +54,7 @@ This project is open source and is available under the [MIT License](license).
 
 ## Preview
 
-Check out the live preview of the project here: [Lobe.ai Landing Page](https://mohsinech.github.io/Lobe.ai-clone-frontendPractice/)
+Check out the live preview of the project here: [Lobe.ai Tour Page](https://mohsinech.github.io/Lobe.ai-clone-frontendPractice/)
 
 ## Contact
 
